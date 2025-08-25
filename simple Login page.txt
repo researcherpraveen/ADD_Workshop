@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>
+ Profile </title>
+</head>
+
+<body style = justify-content:center>
+  <form>
+    <h2 style="text-align:center;">Github Profile<br><br><br>
+
+    <label>Registered Mail:</label><br>
+    <input type="text" name="Mail"><br><br>
+
+    <label>Password:</label><br>
+    <input type="password" name="password"><br><br>
+    
+    <button type="submit">Submit</button></h2>
+  </form>
+
+</body>
+</html>
